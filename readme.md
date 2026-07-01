@@ -6,13 +6,9 @@ This repository contains an **Implicit Association Test (IAT)** built using **Ps
 
 ---
 
-## 🚀 Features
-
-* **Dual Deployment:** Includes `.psyexp` source files, ready to run locally via `IAT.py` or online via `index.html` and `IAT.js`.
-* **Configurable Stimuli:** Block conditions and text stimuli are easily manageable via Excel spreadsheets (`excel/` folder).
-* **Multi-Format Data Logging:** Automatically generates standard PsychoPy log files, `.csv` data, and `.xatdf` tracking data.
-* **Asset Management:** Centralized handling of images and resources.
-
+## Demo Videos
+[PsychoPy program demo](https://www.youtube.com/watch?v=Yj3oj1mvT7o)
+[Presentation video](https://www.canva.com/design/DAGpMDHl7Lw/C-rQPS52TExfv2sTtzCDUA/view?utm_content=DAGpMDHl7Lw&utm_campaign=designshare&utm_medium=link&utm_source=recording_view)
 ---
 
 ## 📂 Repository Structure
@@ -35,8 +31,7 @@ This repository contains an **Implicit Association Test (IAT)** built using **Ps
    ```bash
    git clone [https://github.com/yurenliuuni/IAT_psychopy_exp_ncku2025.git](https://github.com/yurenliuuni/IAT_psychopy_exp_ncku2025.git)
 
-```
-
+   ```
 3. Open `IAT.psyexp` in the PsychoPy Builder and click **Run**, or run the script directly from your terminal:
 ```bash
 python IAT_lastrun.py
@@ -63,5 +58,5 @@ To change the words, categories, or attributes used in the IAT:
 2. Update the target and attribute stimuli tracking files with your preferred Japanese words or translations.
 3. Save and re-run/re-sync the experiment.
 
----
+
 
