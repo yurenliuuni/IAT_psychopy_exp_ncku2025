@@ -8,9 +8,9 @@ This repository contains an **Implicit Association Test (IAT)** built using **Ps
 
 ## Demo, Presentation and Paper
 
-[PsychoPy program demo](https://www.youtube.com/watch?v=Yj3oj1mvT7o)
-[Presentation video](https://www.canva.com/design/DAGpMDHl7Lw/C-rQPS52TExfv2sTtzCDUA/view?utm_content=DAGpMDHl7Lw&utm_campaign=designshare&utm_medium=link&utm_source=recording_view)
-[Read the Paper Here](IAT_paper.pdf)
+- [PsychoPy program demo](https://www.youtube.com/watch?v=Yj3oj1mvT7o)
+- [Presentation video](https://www.canva.com/design/DAGpMDHl7Lw/C-rQPS52TExfv2sTtzCDUA/view?utm_content=DAGpMDHl7Lw&utm_campaign=designshare&utm_medium=link&utm_source=recording_view)
+- [Read the Paper Here](IAT_paper.pdf)
 
 
 ---
